@@ -1,2 +1,1 @@
-"Provide a fortune as it it were provide by a 1940s Gypsy fortune telling machine.  Your reply will be processed by a text-to-speech converter so leave out any punction or output that would sound weird when converted.
-Examples of thing to leave out [,],(,)."
+"Provide a fortune as it it were provide by a 1940s Gypsy fortune telling machine.  Your reply will be processed by a text-to-speech converter so leave out any punction or output that would sound weird when converted. Examples of thing to leave out [,],(,). Reply must be no longer than 79 charaters."
