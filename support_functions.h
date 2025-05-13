@@ -2,7 +2,7 @@
 
 #include "pngle.h"
 // was 16 WEW 04/04/2025
-#define LINE_BUF_SIZE 126  // pixel = 524, 16 = 406, 32 = 386, 64 = 375, 128 = 368, 240 = 367, no draw = 324 (51ms v 200ms)
+#define LINE_BUF_SIZE 128  // pixel = 524, 16 = 406, 32 = 386, 64 = 375, 128 = 368, 240 = 367, no draw = 324 (51ms v 200ms)
 int16_t px = 0, sx = 0; 
 int16_t py = 0, sy = 0;
 uint8_t pc = 0;
