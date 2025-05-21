@@ -5,7 +5,7 @@ This project demonstrates the use of CHAGPT with Google Translate (used for Text
 
 The project works like this.  The user is promped to hit a button mounted under the TFT display. This action generates a call to ChatGPT to get a fortune.  The fortune prompt is stored in Prompt.txt in github.  The prompt produces a short fortune.  
 
-Google translate appears to be limited to 80 charater text strings so the fortune has to be brief. An ESP32-S3 with PSRAM must be used for this project. The Huge partition scheme must be used.  Audio is produced by the ESP32-S3 in I2S format.  This is siliar to I2c.  It is specifically for audio streams.  Three GPIOs are needed.
+Google translate appears to be limited to 80 charater text strings so the fortune has to be brief. An ESP32-S3 with PSRAM must be used for this project. The Huge partition scheme must be used.  Audio is produced by the ESP32-S3 in I2S format.  This is siliar to I2c.  It is specifically for audio streams.  A separate 3.3v regulator circuit may be needed for the audio board. It draws a lot of current and puts noise on the bus.  Three GPIOs are needed.
 
 The amplifier/DAC is a MAX 98357A, I2S to speaker level converter.  It is very loud.
 
