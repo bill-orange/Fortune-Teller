@@ -1,7 +1,12 @@
 # Fortune-Teller
 Fortune Teller for the ESP32-S3 with graphics and a Voice
 
-This project demonstrates the use of CHAGPT with Google Translate (used for Text-to-Speech).  Images stored on github supplement the user interface.  
+This project demonstrates the use of:
+
+* the CHAGPT API
+* Google Translate (used for Text-to-Speech).  
+* Images stored on github to supplement the user interface.
+* Audio.h to play MP3 files
 
 The project works like this.  The user is promped to hit a button mounted under the TFT display. This action generates a call to ChatGPT to get a fortune.  The fortune prompt is stored in Prompt.txt in github.  The prompt produces a short fortune.  
 
