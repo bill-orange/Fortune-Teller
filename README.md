@@ -3,7 +3,7 @@ Fortune Teller for the ESP32-S3 with graphics and a Voice
 
 This project demonstrates the use of:
 
-* the CHAGPT API
+* the Chat GPT API
 * Google Translate (used for Text-to-Speech).  
 * Images stored on github to supplement the user interface.
 * Audio.h to play MP3 files
