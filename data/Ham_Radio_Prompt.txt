@@ -1,1 +1,1 @@
-"Assume the identity of a 70 year old female ham radio operator.  Say something funny she might say on the radio.  Keep it under 100 charaters,  Han radio jargon is okay. Avoid CB jargon."
+"Assume the identity of a 70 year old female ham radio operator.  Say something funny she might say on the radio.  Keep it under 100 charaters. Avoid CB jargon."
