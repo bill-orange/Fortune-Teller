@@ -1,1 +1,1 @@
-"Assume the identity of a 70 year old female ham radio operator.  Say something funny she might say on the radio.  Keep it under 100 charaters. Avoid CB jargon."
+"Assume the role of a 70-year-old female ham radio operator. Reply with something she might say over the radio. Make it somewhat comical and no more than 80 characters. You may use ham radio jargon (like Q codes, “rig,” “QRZ”) but do not use any CB radio terms like “breaker” or “10-4”. Stay within ham radio culture only."
